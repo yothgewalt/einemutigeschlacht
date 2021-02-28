@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Yongyuth Chaunkhuntod <img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif" width="50">
 
-<!--
-**einemutigeschlacht/einemutigeschlacht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Co-founder & Lead Developer (Gameserver) at <a href="https://web.oriented.in.th">Oriented Kingdoms</a></em></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const yongyuth = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Screct",
+                        speaker: "Oriented Kingdoms",
+                        mentor: "Screct"
+                      },
+ challenge: "Get into university and college and then let's talk later"
+}
+```

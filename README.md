@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yongyuth Chaunkhuntod <img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif" width="50">
+### Hi there 👋, I'm Yongyuth Chaunkhuntod
 
 <p><em>Co-founder & Lead Developer (Gameserver) at <a href="https://web.oriented.in.th">Oriented Kingdoms</a></em></p>
 
@@ -16,3 +16,4 @@ const yongyuth = {
  challenge: "Get into university and college and then let's talk later"
 }
 ```
+<img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif">

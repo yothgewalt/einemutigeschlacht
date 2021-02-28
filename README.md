@@ -4,14 +4,14 @@
 
 ```javascript
 const yongyuth = {
-  pronouns: "he" | "him",
+  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["Microservices", "Event-driven", "Design system pattern"],
   techCommunities: {
-                        coorganizer: "Screct",
+                        coorganizer: "Dekcom (Debsirin)",
                         speaker: "Oriented Kingdoms",
-                        mentor: "Screct"
+                        mentor: "College in somewhere"
                       },
  challenge: "Get into university and college and then let's talk later"
 }

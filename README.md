@@ -16,4 +16,6 @@ const yongyuth = {
  challenge: "Get into university and college and then let's talk later"
 }
 ```
-<img src="https://i.pinimg.com/originals/11/0e/7c/110e7c1e1c8c8953e787b56fdff866ed.gif">
+<p align="center">
+    <img src="https://thumbs.gfycat.com/UnpleasantThisKakarikis-size_restricted.gif">
+</p>

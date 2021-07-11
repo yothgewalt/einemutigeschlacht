@@ -5,7 +5,7 @@
 ```javascript
 const yongyuth = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, Typescript, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["Microservices", "Event-driven", "Design system pattern"],
   techCommunities: {

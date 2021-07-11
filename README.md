@@ -13,7 +13,7 @@ const yongyuth = {
                         speaker: "Oriented Kingdoms",
                         mentor: "College in somewhere"
                       },
- challenge: "Get into university and college and then let's talk later"
+ challenge: "Get into university and then let's talk later"
 }
 ```
 <p align="center">
